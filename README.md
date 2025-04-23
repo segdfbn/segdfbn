@@ -40,9 +40,9 @@ I'm actively seeking opportunities as a **Data Analyst** or **Versatile Sales As
 ---
 
 ## 📫 Get in Touch
-- 💌 Email: [your.email@example.com]
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com]
+#- 💌 Email: [your.email@example.com]
+#- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+#- 🌐 Portfolio: [yourwebsite.com]
 
 ---
 
