@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm SegDeg!
+# 👋 Hi there, I'm Seghira!
 
 🎓 Data Scientist | 💡 AI Enthusiast | 🎨 Creative Technologist
 
